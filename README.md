@@ -22,7 +22,7 @@ I work in an open office, and have issues focusing when people are talking aroun
 
 ## How:
 
-I use a [Teensy 3.1 microprocessor ](https://www.pjrc.com/store/teensy31.html) connected to a button to emulate a keyboard. When the button is pushed a series of keyboard shortcuts is executed.
+I use a [Teensy 3.1 microprocessor ](https://www.pjrc.com/store/teensy31.html) connected to a push button to emulate a keyboard. When the button is pushed a series of keyboard shortcuts is executed.
 
 ## Cool Things About this Approach:
 
