@@ -9,6 +9,13 @@ A 1 button device that emulates a keyboard and mutes audio to alert a headphone 
 
 When someone pushes the button, the device simulates the pause button being pushed on the keyboard, then the mute button. After that it quickly inverts and uninverts the colors on the screen by using a built in Apple shortcut. Finally it unmutes the volume. This should alert the computer user to the presence of someone else. 
 
+## Demo:
+
+<p align="center">
+<a href="url"><img alt="button in glass jar pauses music on computer." src="https://media.giphy.com/media/l0IxYNhAo3AKqwSIw/giphy.gif" align="center" height="400"></a>
+</p>
+
+
 ## Why:
 
 I work in an open office, and have issues focusing when people are talking around me, so I often wear large overear headphones and listen to [music](https://www.last.fm/user/joer14). This is fine except that when people need to get my attention they often either tap me on the shoulder or have to stand and talk loudly into my (headphone covered) ears, or wave something awkwardly close to me (since I sit in a corner they can't just walk in front of my desk). I'm fine with the physical contact but it's still a little jarring when you're deep in flow and it can be awkward for other people. With this device others can simply push a button that lays next to my desk and not startle me. 
