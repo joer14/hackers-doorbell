@@ -1,5 +1,5 @@
 # Hackers Doorbell
-A 1 button device that emulates a keyboard and mutes audio to alert a headphone wearing user of another person's physical presence. 
+A one button device that emulates a keyboard and mutes audio to alert a headphone wearing user of another person's physical presence. 
 ---
 <p align="center">
 <a href="url"><img alt="button in glass jar with usb cord" src="http://i.imgur.com/063OOYC.jpg" align="center" height="400"></a>
