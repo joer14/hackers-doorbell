@@ -15,6 +15,8 @@ When someone pushes the button, the device simulates the pause button being push
 <a href="url"><img alt="button in glass jar pauses music on computer." src="https://media.giphy.com/media/l0IxYNhAo3AKqwSIw/giphy.gif" align="center" height="400"></a>
 </p>
 
+In addition to muting audio, the screen flashes and the music app goes from playing to paused.
+
 
 ## Why:
 
