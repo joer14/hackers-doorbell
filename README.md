@@ -28,7 +28,7 @@ I use a [Teensy 3.1 microprocessor ](https://www.pjrc.com/store/teensy31.html) c
 
 ## Cool Thing About this Approach:
 
-You don't need any special software running on your mac, just the ability to [enable a default keyboard shortcut](http://www.cultofmac.com/215227/make-the-invert-display-keyboard-shortcut-work-again-in-mountain-lion-os-x-tips/) on your mac. 
+You don't need any special software running on your mac, just the ability to [enable a default keyboard shortcut](http://www.cultofmac.com/215227/make-the-invert-display-keyboard-shortcut-work-again-in-mountain-lion-os-x-tips/). 
 
 ## Materials:
 
