@@ -57,3 +57,16 @@ You don't need any special software running on your mac, just the ability to [en
 
 ## Buying a Doorbell:
 Do you want one of these devices, for yourself or a coworker? Maybe a department pack? Please fill out [this survey](https://goo.gl/forms/Xr6fzHABMX8Xw1Yh2). If enough people express interest, I may look into reducing the cost, and either selling kits or preassembled units. I could also add a dip switch so that people could easily change shortcuts to fit specific operating system. 
+
+## Bonus:
+If you've read this far you deserve a bonus! In this repo I included doorbell.py, a small flask app that allows for similar functionality to the physical button. Run the server on your local machine and give out your ip address to your peers, and let them bookmark it. They can click the link when you aren't responding to your chat. 
+```
+pip install flask
+python doorbell.py
+```
+To get your current IP address:
+`ifconfig | grep inet`
+
+The server runs on port 5000, so pass on the ip to your coworkers with it appended, e.g. (192.168.1.137:5000)[192.168.1.137:5000]. You may want to background the app using tmux and/or add it as a startup item. Also, a warning, there is no rate limiting with this simple app so it's pretty easy to get DOSed by a funny coworker.
+
+Thanks for reading!
