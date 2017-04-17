@@ -67,6 +67,6 @@ python doorbell.py
 To get your current IP address:
 `ifconfig | grep inet`
 
-The server runs on port 5000, so pass on the ip to your coworkers with it appended, e.g. (192.168.1.137:5000)[192.168.1.137:5000]. You may want to background the app using tmux and/or add it as a startup item. Also, a warning, there is no rate limiting with this simple app so it's pretty easy to get DOSed by a funny coworker.
+The server runs on port 5000, so pass on the ip to your coworkers with it appended, e.g. http://192.168.1.137:5000. You may want to background the app using tmux and/or add it as a startup item. Also, a warning, there is no rate limiting with this simple app so it's pretty easy to get DOSed by a funny coworker.
 
 Thanks for reading!
