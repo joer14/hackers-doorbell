@@ -56,7 +56,7 @@ You don't need any special software running on your mac, just the ability to [en
 - [Image gallery including schematic and a few tips](http://imgur.com/a/Q9pLy)
 
 ## Buying a Doorbell:
-Do you want one of these devices, for yourself or a coworker? Maybe a department pack? Please fill out [this survey](https://goo.gl/forms/Xr6fzHABMX8Xw1Yh2). If enough people express interest, I may look into reducing the cost, and either selling kits or preassembled units. I could also add a dip switch so that people could easily change shortcuts to fit specific operating system. 
+Do you want one of these devices, for yourself or a coworker? Maybe a department pack? Please send me an email (gh username @ gmail.com). If enough people express interest, I may look into reducing the cost, and either selling kits or preassembled units. I could also add a dip switch so that people could easily change shortcuts to work with their OS of choice. 
 
 ## Bonus:
 If you've read this far you deserve a bonus! In this repo I included doorbell.py, a small flask app that allows for similar functionality to the physical button. Run the server on your local machine and give out your ip address to your peers, and let them bookmark it. They can click the link when you aren't responding to your chat. 
